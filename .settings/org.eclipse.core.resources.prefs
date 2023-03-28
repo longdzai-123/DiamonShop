@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/DiamonShop/Controller/Admin/HomeAdminController.java=UTF-8
+encoding//src/main/java/DiamonShop/Controller/User/UserController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/layouts/admin.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/layouts/admin/header.jsp=UTF-8
