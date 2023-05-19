@@ -13,8 +13,6 @@ import DiamonShop.Entity.MapperBills;
 @Repository
 public class BillsDao extends BaseDao{
 	
-	
-	
 	public int AddBills(Bills bill) { 
 		StringBuffer  sql = new StringBuffer();
 		sql.append("INSERT ");

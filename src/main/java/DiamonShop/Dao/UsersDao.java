@@ -1,6 +1,5 @@
 package DiamonShop.Dao;
 
-import org.mindrot.jbcrypt.BCrypt;
 import org.springframework.stereotype.Repository;
 
 import DiamonShop.Entity.MapperUsers;
