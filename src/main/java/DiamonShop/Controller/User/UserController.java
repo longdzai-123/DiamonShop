@@ -15,9 +15,9 @@ import DiamonShop.Service.User.AccountServiceImpl;
 
 @Controller
 public class UserController extends BaseController {
+	
 	@Autowired
 	AccountServiceImpl accountServiceImpl;
-	
 	
 	@RequestMapping(value = "/dang-ky", method = RequestMethod.GET)
 	public ModelAndView DangKy() {
